@@ -1,0 +1,12 @@
+{
+    "database": {
+        "database": "hoaxify",
+        "username": "my-db-user",
+        "passsword": "db-p4ss",
+        "options": {
+            "dialect": "sqlite",
+            "storage": "./database.sqlite",
+            "logging": false
+        }
+    }
+}
